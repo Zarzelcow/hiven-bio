@@ -1,7 +1,7 @@
 <img width="200" src="https://github.com/Zarzelcow/hiven-bio/blob/main/icon.jpg?raw=true" alt="Selfie" align="right">
 <div align="left">
     <h1>Hiven Bio's</h1>
-    You ever wonder what a stupid idea is? Well here is one of mine
+    <h3>You ever wonder what a stupid idea is? Well here is one of mine</h3>
 </div>
 
 * "Humankind cannot gain anything without first giving something in return. To obtain, something of equal value must be lost." (not gpt) ??? - ???
